@@ -10,7 +10,6 @@ global:
     archives: "Archives"
     search: "Search"
     about: "About"
-    books: "Books"
     author_picture: "Author's picture"
     github: "GitHub"
     stack_overflow: "Stack Overflow"
@@ -26,7 +25,6 @@ global:
     linkedin: "LinkedIn"
     mail: "Mail"
     rss: "RSS"
-    store: "Store"
     share_on_facebook: "Share on Facebook"
     share_on_twitter: "Share on Twitter"
     share_on_google_plus: "Share on Google+"
@@ -71,6 +69,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: "I write about web, tech and code"
+    bio: ""
     # Your job
-    job: "Web Developer"
+    job: ""
