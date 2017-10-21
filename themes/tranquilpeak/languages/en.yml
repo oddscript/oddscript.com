@@ -2,6 +2,7 @@
 date_format: "MMM DD, YYYY"
 
 global:
+    store: "Store"
     home: "Home"
     categories: "Categories"
     category: "Category"
@@ -69,6 +70,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: ""
+    bio: "Writing about code"
     # Your job
-    job: ""
+    job: "Web developer"

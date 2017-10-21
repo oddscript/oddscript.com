@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.3.9"
   },
+  "scripts": {
+    "postinstall": "cd themes/tranquilpeak && npm install && node_modules/bower/bin/bower install"
+  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-browsersync": "^0.2.0",
