@@ -6,7 +6,7 @@
     "version": "3.3.9"
   },
   "scripts": {
-    "postinstall": "cd themes/tranquilpeak && npm install && node_modules/bower/bin/bower install"
+    "postinstall": "cd themes/tranquilpeak && npm install && node_modules/.bin/bower install && node_modules/.bin/grunt buildProd"
   },
   "dependencies": {
     "hexo": "^3.2.0",
