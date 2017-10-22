@@ -1,5 +1,5 @@
 ---
-title: "all-tags"
+title: "All tags"
 layout: "all-tags"
 comments: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "all-archives"
-layout: "all-archives"
+title: "All archives"
+layout: "archive"
 comments: false
 ---
