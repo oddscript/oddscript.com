@@ -2,11 +2,12 @@
 menu:
   Home: /
   Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  Github:
-    url: https://github.com/oddscript
-    icon: github
+  #Tags: /tags
+  #Categories: /categories
+  Books: "#"
+  #Github:
+  #  url: https://github.com/oddscript
+  #  icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Odd Script
