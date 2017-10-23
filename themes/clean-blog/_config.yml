@@ -2,9 +2,10 @@
 menu:
   Home: /
   Archives: /archives
+  About: "#"
   #Tags: /tags
   #Categories: /categories
-  Books: "#"
+  My books: "#"
   #Github:
   #  url: https://github.com/oddscript
   #  icon: github

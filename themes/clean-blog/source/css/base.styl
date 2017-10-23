@@ -49,6 +49,7 @@ hr.small
         font-weight 800
         letter-spacing 1px
         text-decoration none
+
   @media only screen and (min-width: 768px)
     background transparent
     border-bottom 1px solid transparent
@@ -58,12 +59,24 @@ hr.small
       &:hover, &:focus
         color white-faded
     .nav
+      margin-top: 10px;
+      
       li
         a
           color white
-          padding 20px
+          padding 10px
           &:hover, &:focus
             color white-faded
+        &:last-child
+          margin-right: 10px;
+          a
+            border: white 1px solid;
+            border-radius: 50px;
+            padding: 10px 40px;
+            &:hover, &:focus
+              background: white;
+              color: black;
+              
   @media only screen and (min-width: 1170px)
     -webkit-transition background-color 0.3s
     -moz-transition background-color 0.3s
