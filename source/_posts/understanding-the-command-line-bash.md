@@ -80,7 +80,7 @@ You can think of your hard drive (HDD) as your root (/) location, on the HDD the
 
 ![](/images/path-structure-bash.jpg)
 
-There are many more subfolders than displayed on this illustration. It’s not practical to fit all of them. But hopefully you get the general idea.
+There are many more subfolders than displayed on this illustration. But it’s not practical to fit all of them. Hopefully you get the general idea anyway.
 
 ### Change the path
 to get to the root location of your computer just type the following command:
@@ -89,7 +89,7 @@ to get to the root location of your computer just type the following command:
 cd /
 ```
 
-here we are using the command/program change directory (cd) with the argument “/”. The single slash is the root directory. So always if there is a slash at the beginning of a path, it means start from the root.
+here we are using the command/program change directory (cd) with the argument “/”. The single slash is the root directory. 
 
 ``` bash
 cd /Users
