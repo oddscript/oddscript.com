@@ -8,7 +8,7 @@ tags:
   - cli
 ---
 
-If you want to be a developer you really should have some familiarity with the terminal. So in this article I will try to explain what the terminal (shell or command line) is and how to use it in a very basic way. Bare in mind that the terminal is slightly different depending on what OS you are using. This article is written from the perspective of macOS, but all information should be applicable on other UNIX systems as well. As long as they use bash as their shell.
+If you want to be a developer you really should have some familiarity with the terminal. So in this article I will try to explain what the terminal (shell or command line) is and how to use it in a very basic way. Bear in mind that the terminal is slightly different depending on what OS you are using. This article is written from the perspective of macOS, but all information should be applicable on other UNIX systems as well. As long as they use bash as their shell.
 <!-- more -->
 ## What are shells?
 On macOS and many other UNIX based system the default shell is called bash (Bourne-again shell). A shell is just a command line interpreter that let’s the user access the operating system’s functionality from a text based interface instead of the graphical user interface.
@@ -78,7 +78,7 @@ pwd, or the print working directory command just spits out your current location
 ### What locations exists?
 You can think of your hard drive (HDD) as your root (/) location, on the HDD there are a lot of folders in a tree like structure.
 
-IMAGE
+![](/images/path-structure-bash.jpg)
 
 There are many more subfolders than displayed on this illustration. It’s not practical to fit all of them. But hopefully you get the general idea.
 
