@@ -115,6 +115,24 @@ hr.small
       -ms-transform translate3d(0, 100%, 0)
       -o-transform translate3d(0, 100%, 0)
       transform translate3d(0, 100%, 0)
+/* Tables */
+table
+  overflow-x scroll
+td, th
+  padding 15px
+  border-left 2px solid white
+
+thead
+  tr
+    background rgba(1,1,1, 0.1)
+
+tbody
+  tr
+    &:nth-child(odd)
+      background rgba(1,1,1, 0.01)
+    &:nth-child(even)
+      background: rgba(1,1,1, 0.05)
+
 
 .intro-header
   background-color gray
