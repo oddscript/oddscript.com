@@ -5,7 +5,7 @@ categories:
 date: 2017-10-26 22:08:44
 tags:
 ---
-Calculations
+
 Computers use boolean logic to calculate and store data. It’s basically another version of algebra that only uses two values, true or false, or as we are familiar with 1 or 0. But boolean logic contains a range of operators to calculate these two values. You can build these logical operators using transistors. They are called logic gates and there is quite a few of them: AND, OR, NOT, NAND, XOR, NOR. But we are only going to look at the three basic ones.
 
 The logic gates
