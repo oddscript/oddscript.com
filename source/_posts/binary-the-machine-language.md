@@ -10,7 +10,7 @@ tags:
 This is the second article in the series: How computers work.
 1. ['What is a computer?'](/how-computers-work/what-is-a-computer)
 2. ['Binary the machine language'](/how-computers-work/binary-the-machine-language) (This article)
-3. ['How computers compute'](/how-computers-work/how-computers-compute)
+3. ['Logic gates and computing'](/how-computers-work/logic-gates-and-computing)
 ***
 
 In the last article I simply described what a computer is. Now it’s time to show how the computer actually stores and process information. We are going to learn some machine language!

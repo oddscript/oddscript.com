@@ -1,5 +1,5 @@
 ---
-title: How computers compute
+title: Logic gates and computing
 categories:
   - How computers work
 date: 2017-10-26 22:08:44
@@ -10,10 +10,10 @@ tags:
 This is the third article in the series: How computers work.
 1. ['What is a computer?'](/how-computers-work/what-is-a-computer)
 2. ['Binary the machine language'](/how-computers-work/binary-the-machine-language)
-3. ['How computers compute'](/how-computers-work/how-computers-compute) (This article)
+3. ['Logic gates and computing'](/how-computers-work/logic-gates-and-computing) (This article)
 ***
 
-Computers use boolean logic to calculate and store data. It’s basically another version of algebra that only uses two values, true or false, or as we are familiar with 1 or 0. But boolean logic contains a range of operators to calculate these two values. You can build these logical operators using transistors. They are called logic gates and there is quite a few of them: AND, OR, NOT, NAND, XOR, NOR. But we are only going to look at the three basic ones.
+Computers use boolean algebra to calculate and store data. It’s basically another version of algebra that only uses two values, true or false, or as we are familiar with 1 or 0. But boolean logic contains a range of operators to calculate these two values. You can build these logical operators using transistors. They are called logic gates and there is quite a few of them: AND, OR, NOT, NAND, XOR, NOR. But we are only going to look at the three basic ones.
 
 ## Logic gates
 
@@ -61,4 +61,4 @@ This is what's called a ripple adder. A ripple adder is just a bunch of full add
 
 ## Lastly
 
-This article did not make you a pro at building logic circuits, and that's not its purpose. The only purpose of this article was to give you an overview of how computers *compute*. You don't absolutely need to understand this to be able to program, but I find it helpful to have some general idea of what my computer code eventually is going to turn into and what is physically happening inside the computer. The next article will introduce programming at a very low level.
+The purpose of this article was to give you an overview of how computers *compute* using logic gates. You don't absolutely need to understand this to be able to program later on, but I find it helpful to have some general idea of what my computer code eventually is going to turn into and what is physically happening inside the computer. The next article will introduce programming at a very low level.
