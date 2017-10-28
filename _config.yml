@@ -69,6 +69,19 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+# robots.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /confirm-email
+    - /all-archives
+    - /all-categories
+    - /all-tags
+  sitemap: /sitemap.xml
+
+# Sitemap
+sitemap:
+    path: sitemap.xml
 
 # RSS Feed
 feed:
@@ -78,6 +91,7 @@ feed:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
 ## Themes: https://hexo.io/themes/
 theme: clean-blog
 
