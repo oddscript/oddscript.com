@@ -1,5 +1,6 @@
 ---
 title: "Binary: the machine language"
+description: "Learn binary to talk with computers."
 categories:
   - How computers work
 date: 2017-10-25 19:53:16

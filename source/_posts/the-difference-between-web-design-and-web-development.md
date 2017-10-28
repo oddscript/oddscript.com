@@ -1,5 +1,6 @@
 ---
 title: The difference between web design and web development
+description: "Understand the difference between web designer and web developer."
 categories:
   - Web development
 date: 2017-10-20 19:15:40

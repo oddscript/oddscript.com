@@ -1,5 +1,6 @@
 ---
 title: Understanding the command-line (bash)
+description: "Learn the basics of the Mac Terminal (bash)"
 categories:
   - Computer basics
 date: 2017-10-22 15:19:52

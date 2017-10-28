@@ -1,5 +1,6 @@
 ---
 title: I'm writing some books
+description: "I'm writing some books about web development."
 categories:
 - Updates
 date: 2017-10-18 18:30:00

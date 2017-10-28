@@ -1,5 +1,6 @@
 ---
 title: Logic gates and computing
+description: "Learn how computers compute with logic gates."
 categories:
   - How computers work
 date: 2017-10-26 22:08:44

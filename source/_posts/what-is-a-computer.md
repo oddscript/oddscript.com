@@ -1,5 +1,6 @@
 ---
 title: 'What is a computer?'
+description: "Do you know what a computer is?"
 categories:
   - How computers work
 date: 2017-10-24 19:04:26
