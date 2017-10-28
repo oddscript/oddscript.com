@@ -1,5 +1,5 @@
 ---
-title: "Binary the machine language"
+title: "Binary: the machine language"
 categories:
   - How computers work
 date: 2017-10-25 19:53:16
@@ -9,7 +9,7 @@ tags:
 ***
 This is the second article in the series: How computers work.
 1. ['What is a computer?'](/how-computers-work/what-is-a-computer)
-2. ['Binary the machine language'](/how-computers-work/binary-the-machine-language) (This article)
+2. ['Binary: the machine language'](/how-computers-work/binary-the-machine-language) (This article)
 3. ['Logic gates and computing'](/how-computers-work/logic-gates-and-computing)
 ***
 

@@ -9,7 +9,7 @@ tags:
 ***
 This is the first article in the series: How computers work.
 1. ['What is a computer?'](/how-computers-work/what-is-a-computer) (This article)
-2. ['Binary the machine language'](/how-computers-work/binary-the-machine-language) 
+2. ['Binary: the machine language'](/how-computers-work/binary-the-machine-language) 
 3. ['Logic gates and computing'](/how-computers-work/logic-gates-and-computing)
 ***
 
