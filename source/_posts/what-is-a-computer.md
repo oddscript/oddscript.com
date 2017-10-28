@@ -6,6 +6,13 @@ date: 2017-10-24 19:04:26
 tags:
 ---
 
+***
+This is the first article in the series: How computers work.
+1. ['What is a computer?'](/how-computers-work/what-is-a-computer) (This article)
+2. ['Binary the machine language'](/how-computers-work/binary-the-machine-language) 
+3. ['How computers compute'](/how-computers-work/how-computers-compute)
+***
+
 Ok, most people have an idea of what a computer is and maybe so do you. This is an article to get you up to speed if you don’t. If you feel certain that you know, skim through it and wait for the next article in the How computers work series.
 <!-- more -->
 ## The definition of a computer
