@@ -116,11 +116,11 @@ hr.small
       -o-transform translate3d(0, 100%, 0)
       transform translate3d(0, 100%, 0)
 /* Tables */
+
 table
-  overflow-x scroll
+overflow-x scroll
 td, th
   padding 15px
-  border-left 2px solid white
 
 thead
   tr
@@ -133,6 +133,11 @@ tbody
     &:nth-child(even)
       background: rgba(1,1,1, 0.05)
 
+.highlight table
+  td, th
+    padding: 0
+  tr
+    background: transparent
 
 .intro-header
   background-color gray
