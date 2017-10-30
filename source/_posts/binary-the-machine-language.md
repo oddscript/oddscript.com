@@ -14,7 +14,9 @@ This is the second article in the series: How computers work.
 3. ['Logic gates and computing'](/how-computers-work/logic-gates-and-computing)
 ***
 
+<!-- block -->
 In the last article I simply described what a computer is. Now it’s time to show how the computer actually stores and process information. We are going to learn some machine language!
+<!-- block -->
 
 So, as you no doubt have heard the computer uses something called binary to store and process information. This is just a different way of counting than the decimal system (you know the way most humans count). Binary only contains ones and zeroes. So how in the butterscotch is the computer able to do anything with this? Well, as it turns out you can do quite a lot if you have enough sets of ones and zeroes.
 

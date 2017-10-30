@@ -18,11 +18,27 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <% page.posts.each(function(item){ %>
-                <%- partial('_partial/article-index', {item: item}) %>
+            <h2>Newest Article</h2>
+            <% page.posts.each(function(item, i){ %>
+            <% if(i < 1) { %>
+            <a href="<%- item.permalink %>">               
+                <h3><%- item.title %></h3>
+                <p><%- item.description %></p>
+            </a>
+            <% } %>
             <% }); %>
+            
 
-            <%- partial('_partial/pagination') %>
+            <h2>Topics</h2>
+            <% site.categories.each(function(item){ %>
+                <a href="categories/<%- item.slug %>">
+                    <div class="jumbotron jumbotron-fluid">
+                        <div class="container">
+                            <h3 class="display-3"><%- item.name %></h3>                      
+                        </div>
+                    </div>
+                </a>  
+            <% }); %>
         </div>
     </div>
 </div>
