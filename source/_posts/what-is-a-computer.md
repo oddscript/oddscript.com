@@ -18,6 +18,7 @@ This is the first article in the series: How computers work.
 <!-- block -->
 Ok, most people have an idea of what a computer is and maybe so do you. This is an article to get you up to speed if you don’t. If you feel certain that you know, skim through it and wait for the next article in the How computers work series.
 <!-- block -->
+
 ## The definition of a computer
 A computer is a machine that computes (a.k.a *calculates*) stuff. It takes in data (*inputs*), does something to that data (*calculation*) based on instructions (*program*), and then it finally spits out whatever it is that it was told to (*output*). So the process looks a bit like this:
 
