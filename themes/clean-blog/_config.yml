@@ -1,11 +1,11 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  About: "#"
+  #Home: /
+  #Archives: /archives
+  #About: "#"
   #Tags: /tags
-  #Categories: /categories
-  My books: "#"
+  Categories: "/#categories"
+  #My books: "#"
   #Github:
   #  url: https://github.com/oddscript
   #  icon: github
